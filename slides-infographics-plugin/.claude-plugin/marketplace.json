@@ -1,0 +1,15 @@
+{
+  "name": "slides-infographics-plugin",
+  "owner": {
+    "name": "DAIR.AI",
+    "email": "hello@dair.ai"
+  },
+  "plugins": [
+    {
+      "name": "slides-infographics",
+      "source": "./plugins/slides-infographics",
+      "description": "Create presentation slides, infographics, timelines, and visual decks using Gemini's Nano Banana Pro model with specialized layouts and templates",
+      "author": { "name": "DAIR.AI" }
+    }
+  ]
+}

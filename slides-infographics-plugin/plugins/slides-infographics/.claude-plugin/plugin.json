@@ -1,0 +1,8 @@
+{
+  "name": "slides-infographics",
+  "description": "Create presentation slides, infographics, timelines, and visual decks using Gemini's Nano Banana Pro (gemini-3-pro-image-preview) model",
+  "version": "1.0.0",
+  "author": {
+    "name": "DAIR.AI"
+  }
+}

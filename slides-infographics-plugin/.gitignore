@@ -1,0 +1,23 @@
+# Claude local testing
+.claude/
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+*.env
+!.env.example
+
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+
+# Todo folder
+todo/
+
+# Generated output
+**/output/
+**/generated-slides/
