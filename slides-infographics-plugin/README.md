@@ -7,7 +7,7 @@ Open-source Claude Code plugin for creating presentation slides, infographics, t
 ### 1. Add the marketplace to Claude Code
 
 ```
-/plugin marketplace add <your-github-org>/slides-infographics-plugin
+/plugin marketplace add bsabata/tools/slides-infographics-plugin
 ```
 
 ### 2. Install the plugin
