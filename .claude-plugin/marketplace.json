@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "slides-infographics",
-      "source": "./plugins/slides-infographics",
+      "source": "./slides-infographics-plugin/plugins/slides-infographics",
       "description": "Create presentation slides, infographics, timelines, and visual decks using the Gemini image generation API with specialized layouts and templates",
       "author": { "name": "sabata.net" }
     }

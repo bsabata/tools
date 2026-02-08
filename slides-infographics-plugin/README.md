@@ -1,13 +1,13 @@
 # Slides & Infographics Plugin
 
-Open-source Claude Code plugin for creating presentation slides, infographics, timelines, and visual decks using Google's Gemini Nano Banana Pro model (`gemini-3-pro-image-preview`).
+Open-source Claude Code plugin for creating presentation slides, infographics, timelines, and visual decks using the Gemini image generation API (`gemini-3-pro-image-preview`).
 
 ## Installation
 
 ### 1. Add the marketplace to Claude Code
 
 ```
-/plugin marketplace add bsabata/tools/slides-infographics-plugin
+/plugin marketplace add bsabata/tools
 ```
 
 ### 2. Install the plugin
@@ -28,7 +28,7 @@ export GEMINI_API_KEY="your_api_key_here"
 
 | Plugin | Description |
 |--------|-------------|
-| [slides-infographics](./plugins/slides-infographics) | Create slides, infographics, timelines, and presentation decks using Gemini Nano Banana Pro |
+| [slides-infographics](./plugins/slides-infographics) | Create slides, infographics, timelines, and presentation decks using the Gemini image generation API |
 
 ## What You Can Create
 
