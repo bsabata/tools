@@ -1,6 +1,6 @@
 # Slides & Infographics Plugin
 
-Create presentation slides and infographics using Google's Gemini Nano Banana Pro model (`gemini-3-pro-image-preview`).
+Create presentation slides and infographics using the Gemini image generation API (`gemini-3-pro-image-preview`).
 
 ## Features
 
@@ -71,7 +71,7 @@ Create a 4-step process flow infographic for the software development lifecycle
 
 ## Model Capabilities
 
-The `gemini-3-pro-image-preview` (Nano Banana Pro) model features:
+The `gemini-3-pro-image-preview` model features:
 - Advanced reasoning for complex slide compositions
 - "Thinking" process for layout and text rendering refinement
 - Up to 14 reference images for input
@@ -89,4 +89,4 @@ The `gemini-3-pro-image-preview` (Nano Banana Pro) model features:
 ## Version
 
 - Version: 1.0.0
-- Author: DAIR.AI
+- Author: sabata.net
